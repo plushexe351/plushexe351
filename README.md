@@ -19,15 +19,16 @@
 </blockquote>
 
 <div>
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=f0db4f" alt="language js"/>
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776ab&labelColor=white" alt="language py"/>
-<img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=aqua" alt="framework react"/>
-<img src="https://img.shields.io/badge/backend-express-informational?style=flat&logo=express&color=000000" alt="backend express"/>
-<img src="https://img.shields.io/badge/backend-node-informational?style=flat&logo=node.js&color=339933&labelColor=white" alt="backend node"/>
-<img src="https://img.shields.io/badge/UI-scss-informational?style=flat&logo=sass&color=cc6699&labelColor=white" alt="UI sass"/>
-<img src="https://img.shields.io/badge/nosql-mongodb-informational?style=flat&logo=mongodb&color=47a248&labelColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/nosql-firebase-informational?style=flat&logo=firebase&color=ffcb2f" alt="firebase"/>
-<img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=00758f&labelColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=e1d85f" alt="language js"/>
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=6c8cbf&labelColor=white" alt="language py"/>
+<img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=66c9c9" alt="framework react"/>
+<img src="https://img.shields.io/badge/backend-express-informational?style=flat&logo=express&color=555555" alt="backend express"/>
+<img src="https://img.shields.io/badge/backend-node-informational?style=flat&logo=node.js&color=4a7b3f&labelColor=white" alt="backend node"/>
+<img src="https://img.shields.io/badge/UI-scss-informational?style=flat&logo=sass&color=9f4c77&labelColor=white" alt="UI sass"/>
+<img src="https://img.shields.io/badge/nosql-mongodb-informational?style=flat&logo=mongodb&color=6b9f5f&labelColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/nosql-firebase-informational?style=flat&logo=firebase&color=ffb43f" alt="firebase"/>
+<img src="https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=6b8c9f&labelColor=white" alt="mysql"/>
+
 </div>
 
 <br>
