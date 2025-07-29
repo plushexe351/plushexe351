@@ -12,7 +12,7 @@
 
 <br>
 
-<p><em>MERN Stack Developer</em> actively looking for work.</p>
+<p><em>MERN Stack Developer</em></p>
 
 <blockquote>
 <strong>Engineer of online experiences. Crafting invisible threads that connect users with technology.</strong>
