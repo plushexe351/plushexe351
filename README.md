@@ -1,4 +1,4 @@
-<h1>Hi 👋 I am Ushnish Tapaswi</h1>
+<h1>Hi, I'm Ushnish Tapaswi</h1>
 
 <div>
   <a href="https://www.linkedin.com/in/ushnish-tapaswi-719489267/">
