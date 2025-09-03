@@ -1,18 +1,8 @@
 # Hi, I'm Ushnish Tapaswi 👋
 
 In high school, I had no clue what I wanted to do with my life. The only thing I *did* know?  
-I loved design and making things look good.  
-
-That curiosity led me (by accident) into web development and I’ve been hooked ever since.  
+I loved design and making things look good. That curiosity led me (by accident) into web development and I’ve been hooked ever since.  
 Now I work as a **full-stack developer**, building digital experiences that balance clean design with solid engineering.
-
----
-
-### 🛠️ What I work with
-- **Frontend:** React, Vite, Next.js, Electron, Tailwind, SCSS  
-- **Backend:** Node.js, Express, Flask, Firebase,   
-- **Databases:** MongoDB, MySQL  
-- **Other tools:** Python (for the side quests)  
 
 ---
 
