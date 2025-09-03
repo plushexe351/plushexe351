@@ -38,7 +38,7 @@
 <ul>
   <li>
     
-💻 Developing reliable and scalable web applications using the MERN stack.
+💻 Developing reliable and scalable web applications using MERN stack.
   </li>
   <li>
     
