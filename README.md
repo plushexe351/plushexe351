@@ -18,4 +18,6 @@ Now I work as a **Full-Stack Developer**, building digital experiences that bala
 ### Tech Stack
 
 - Whatever the Internet throws at me
+
+---
   
