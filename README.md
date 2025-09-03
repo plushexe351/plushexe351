@@ -6,6 +6,9 @@ Now I work as a **full-stack developer**, building digital experiences that bala
 
 ---
 
+### Tech Stack
+- Whatever the Internet throws at me
+
 ### :) Few things I care about
 - Building **reliable and scalable** apps.  
 - Making sure designs aren’t just pretty, but **usable**.  
