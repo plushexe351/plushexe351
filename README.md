@@ -2,7 +2,7 @@
 
 In high school, I had no clue what I wanted to do with my life. The only thing I *did* know?  
 I loved design and making things look good. That curiosity led me (by accident) into web development and I’ve been hooked ever since.  
-Now I work as a **Full-Stack developer**, building digital experiences that balance clean design with solid engineering.
+Now I work as a **Full-Stack Developer**, building digital experiences that balance clean design with solid engineering.
 
 ---
 
