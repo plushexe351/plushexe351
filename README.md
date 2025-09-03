@@ -8,8 +8,8 @@ Now I work as a **full-stack developer**, building digital experiences that bala
 
 ### :) Few things I care about
 
-- Building **reliable and scalable** apps.  
-- Making sure designs aren’t just pretty, but **usable**.  
+- Building **robust and scalable** apps.  
+- Making sure designs are pretty but also **usable**.  
 - Writing CSS from scratch when I feel like suffering.
 
 ---
