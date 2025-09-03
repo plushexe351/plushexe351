@@ -10,7 +10,6 @@ Now I work as a **full-stack developer**, building digital experiences that bala
 - Building **reliable and scalable** apps.  
 - Making sure designs aren’t just pretty, but **usable**.  
 - Writing CSS from scratch when I feel like suffering.
-- I will never use Tailwind, ever. (For the right price, I will)
 
 ---
 
