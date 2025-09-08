@@ -23,7 +23,7 @@
 #### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
