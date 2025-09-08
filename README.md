@@ -35,8 +35,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=firebase)
-![Vercel](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
 #### Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
