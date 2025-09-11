@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
